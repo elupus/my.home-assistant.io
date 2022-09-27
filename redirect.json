@@ -30,7 +30,7 @@
     "redirect": "analytics",
     "name": "Analytics",
     "badge": "Analytics",
-    "description": "manage your analytics prefrences",
+    "description": "manage your analytics preferences",
     "introduced": "2022.5"
   },
   {
